@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49338" started-at="2020-11-28T12:12:17Z" finished-at="2020-11-28T12:13:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49338" started-at="2020-11-28T12:12:17Z" finished-at="2020-11-28T12:13:06Z">
+      <class name="testcases.TC_SFO154_EditWorkType">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC_SFO154_EditWorkType@27a8c74e]" name="beforeSuite" is-config="true" duration-ms="795" started-at="2020-11-28T12:12:16Z" finished-at="2020-11-28T12:12:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testcases.TC_SFO154_EditWorkType@27a8c74e]" name="setData" is-config="true" duration-ms="0" started-at="2020-11-28T12:12:17Z" finished-at="2020-11-28T12:12:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.TC_SFO154_EditWorkType@27a8c74e]" name="beforeClass" is-config="true" duration-ms="2" started-at="2020-11-28T12:12:17Z" finished-at="2020-11-28T12:12:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC_SFO154_EditWorkType@27a8c74e]" name="beforeMethod" is-config="true" duration-ms="13564" started-at="2020-11-28T12:12:17Z" finished-at="2020-11-28T12:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="editWorkType(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.TC_SFO154_EditWorkType@27a8c74e]" name="editWorkType" duration-ms="34839" started-at="2020-11-28T12:12:31Z" data-provider="fetchData" finished-at="2020-11-28T12:13:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[was saved]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editWorkType -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC_SFO154_EditWorkType@27a8c74e]" name="afterMethod" is-config="true" duration-ms="159" started-at="2020-11-28T12:13:06Z" finished-at="2020-11-28T12:13:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC_SFO154_EditWorkType@27a8c74e]" name="afterSuite" is-config="true" duration-ms="729" started-at="2020-11-28T12:13:06Z" finished-at="2020-11-28T12:13:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.TC_SFO154_EditWorkType -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
